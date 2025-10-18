@@ -1,0 +1,51 @@
+S.No,Question,OptionA,OptionB,OptionC,OptionD,Answer
+1,Which of these is the correct way to declare a variable in Java?,int 1x;,int x;,int x=5;,int x=5;,C
+2,Which keyword is used to define a class in Java?,class,Class,CLASS,clazz,A
+3,Which of these is used to print output in Java?,echo(),System.out.println(),print(),console.log(),B
+4,Which of these is a valid identifier in Java?,1variable,my-var,_myVariable,my Variable,C
+5,Which of these is the correct way to write comments?,/* comment */,# comment,// comment,<-- comment,C
+6,Which data type is used to store decimal numbers?,int,float,double,String,C
+7,Which of these is not a primitive data type?,int,float,double,String,D
+8,Which operator is used for addition?,+,add(),++,sum(),A
+9,Which operator is used for equality check?,=,==,!=,===,B
+10,Which loop executes a block while a condition is true?,for,while,do-while,loop,B
+11,Which loop executes at least once?,for,while,do-while,loop,C
+12,Which keyword is used to skip the current iteration?,skip,continue,break,pass,B
+13,Which keyword is used to exit a loop?,exit,stop,break,return,C
+14,Which method is the entry point of a Java program?,main(),start(),run(),init(),A
+15,Which of these is used to take input from user?,Scanner,Input,BufferedReader,Console,A
+16,Which package is imported to use Scanner?,java.util.*,java.io.*,java.lang.*,java.net.*,A
+17,Which method is used to find the length of a string?,size(),length(),count(),len(),B
+18,Which of these is a valid boolean value?,true,True,TRUE,1,A
+19,Which keyword is used to define a constant?,final,constant,static,const,A
+20,Which operator is used for modulus?,%,mod(),/,!,A
+21,Which operator is used for increment?,++,+,increment(),--,A
+22,Which operator is used for decrement?,--,-,decrement(),++,A
+23,Which keyword is used for inheritance?,inherits,extends,implements,super,B
+24,Which keyword is used to implement an interface?,extends,implements,inherit,interface,B
+25,Which method is used to compare two strings?,==,equals(),compare(),match(),B
+26,Which keyword is used to handle exceptions?,try,catch,throw,All of the above,D
+27,Which keyword is used to throw an exception?,throw,throws,try,catch,A
+28,Which keyword is used to define a package?,package,import,include,module,A
+29,Which of these is used to define an array?,int[] arr;,int arr[],int arr[] = new int[5];,All of the above,D
+30,Which operator is used for logical AND?,AND,&&,||,&,B
+31,Which operator is used for logical OR?,OR,||,&&,|,B
+32,Which operator is used for logical NOT?,!,not,~,-,A
+33,Which of these is used for type casting?,(type)value,type(value),cast(type;value),All of the above,A
+34,Which keyword defines an abstract class?,abstract,interface,class,extends,A
+35,Which keyword is used to define an interface?,interface,abstract,class,implements,A
+36,Which method is used to get character at specific index?,charAt(),getChar(),characterAt(),char(),A
+37,Which method is used to convert string to uppercase?,toUpperCase(),uppercase(),upcase(),upper(),A
+38,Which method is used to convert string to lowercase?,toLowerCase(),lowercase(),downcase(),lower(),A
+39,Which keyword is used to create an object?,new,object,create,instantiate,A
+40,Which of these is the correct constructor name?,constructor(),ClassName(),className(),init(),B
+41,Which operator is used for assignment?,=,==,===,:=,A
+42,Which keyword is used to call parent class constructor?,super,this,parent,base,A
+43,Which keyword is used to prevent method overriding?,final,static,private,protected,A
+44,Which keyword is used to make a method accessible only inside class?,private,public,protected,default,A
+45,Which keyword is used to define method accessible in package?,protected,public,private,default,D
+46,Which operator is used for comparison?,=,==,!=,All of the above,B
+47,Which keyword is used for exception handling?,try,catch,finally,All of the above,D
+48,Which keyword is used to terminate the current thread?,stop,terminate,exit,return,A
+49,Which keyword is used to inherit from multiple interfaces?,implements,extends,interface,class,A
+50,Which method is used to find index of character in string?,index(),indexOf(),find(),search(),B

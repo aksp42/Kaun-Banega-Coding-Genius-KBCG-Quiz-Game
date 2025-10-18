@@ -1,0 +1,16 @@
+S.No,Question,OptionA,OptionB,OptionC,OptionD,Answer
+1,Which of these is used to pass array to a function?,By value,By reference,Both A and B,None,B
+2,Which keyword is used to create dynamic objects?,new,alloc,malloc,calloc,A
+3,Which keyword is used to deallocate dynamic objects?,delete,free,dispose,release,A
+4,Which operator is used to access members of object via pointer?,.,->,*,&,B
+5,Which function is used to compare two strings?,compare(),strcmp(),Both A and B,None,D,Both A and B
+6,Which function copies string from source to destination?,strcpy(),copy(),Both A and B,None,D,Both A and B
+7,Which function is used to fill memory with a constant value?,memset(),fill(),setmem(),memfill(),A
+8,Which operator is used for bitwise AND?,&,&&,|,||,A
+9,Which operator is used for bitwise OR?,|,||,&,&&,A
+10,Which operator is used for bitwise XOR?,^,&&,|,||,A
+11,Which keyword is used to define enum?,enum,class,struct,define,A
+12,Which function is used to read binary data from file?,read(),fread(),fstream.read(),Both B and C,D,Both B and C
+13,Which function is used to write binary data to file?,write(),fwrite(),fstream.write(),Both A and C,D,Both A and C
+14,Which concept allows a child class to redefine a parent method?,Overloading,Overriding,Polymorphism,Encapsulation,B
+15,Which technique is used to implement recursion?,Function calling itself,Looping,Iteration,Both A and B,A

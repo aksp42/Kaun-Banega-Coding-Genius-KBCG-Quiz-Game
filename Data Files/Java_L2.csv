@@ -1,0 +1,41 @@
+S.No,Question,OptionA,OptionB,OptionC,OptionD,Answer
+1,Which of these is used to find length of an array?,length(),size(),count(),len(),A
+2,Which method is used to compare two strings ignoring case?,equals(),equalsIgnoreCase(),compareTo(),compare(),B
+3,Which collection allows duplicate elements?,Set,List,Map,Queue,B
+4,Which collection does not allow duplicates?,Set,List,Map,Queue,A
+5,Which interface is used for key-value mapping?,List,Set,Map,Queue,C
+6,Which method removes element from ArrayList by index?,remove(),delete(),pop(),discard(),A
+7,Which method removes element from ArrayList by value?,remove(),delete(),pop(),discard(),A
+8,Which method adds element at specific index in ArrayList?,add(),insert(),put(),set(),B
+9,Which loop is preferred when number of iterations is known?,for,while,do-while,loop,A
+10,Which loop is preferred when number of iterations is unknown?,for,while,do-while,loop,B
+11,Which exception is thrown when array index is out of bounds?,NullPointerException,IndexOutOfBoundsException,ArithmeticException,ClassNotFoundException,B
+12,Which exception is thrown when dividing by zero?,ArithmeticException,NullPointerException,IndexOutOfBoundsException,IOException,A
+13,Which keyword is used to catch exceptions?,catch,try,finally,throw,A
+14,Which keyword is used to define final variables?,final,const,static,immutable,A
+15,Which keyword is used to define constants?,final,const,static,constant,B
+16,Which of these is used to implement multithreading?,Runnable,Thread,Both A and B,Process,C
+17,Which method is used to start a thread?,run(),start(),execute(),init(),B
+18,Which method is used to pause a thread?,wait(),sleep(),pause(),stop(),B
+19,Which method is used to stop a thread?,stop(),terminate(),exit(),kill(),A
+20,Which package is used for input/output operations?,java.io.*,java.util.*,java.lang.*,java.net.*,A
+21,Which method is used to write text to file?,write(),print(),println(),output(),A
+22,Which method is used to read from file?,read(),input(),get(),fetch(),A
+23,Which class is used for buffered reading?,BufferedReader,FileReader,Scanner,InputStreamReader,A
+24,Which method is used to sort a collection?,sort(),order(),arrange(),organize(),A
+25,Which class is used to generate random numbers?,Random,Math,NumberGenerator,Randomize,A
+26,Which method is used to find absolute value?,abs(),absolute(),mod(),value(),A
+27,Which keyword is used for interface inheritance?,extends,implements,inherits,interface,B
+28,Which keyword is used to call parent class constructor?,super,this,parent,base,A
+29,Which method is used to convert string to integer?,parseInt(),toInt(),convert(),Integer(),A
+30,Which method is used to convert integer to string?,toString(),String(),convert(),Integer(),A
+31,Which method is used to find character at specific index?,charAt(),getChar(),characterAt(),char(),A
+32,Which method is used to find substring?,substring(),subString(),substr(),slice(),A
+33,Which method removes leading and trailing spaces?,trim(),strip(),remove(),clean(),A
+34,Which of these is used to create immutable class?,final class,class,abstract class,private class,A
+35,Which of these is used to define abstract method?,abstract,virtual,final,override,A
+36,Which method is used to join strings?,concat(),join(),merge(),append(),A
+37,Which method is used to split string?,split(),divide(),cut(),break(),A
+38,Which operator is used for ternary condition?,? :,if-else,&&,||,A
+39,Which method is used to compare objects?,compareTo(),equals(),==,Both A and B,D
+40,Which exception is thrown when null reference is accessed?,NullPointerException,IndexOutOfBoundsException,ArithmeticException,IOException,A

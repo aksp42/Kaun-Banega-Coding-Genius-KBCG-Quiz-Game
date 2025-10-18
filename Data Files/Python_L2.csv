@@ -1,0 +1,41 @@
+S.No,Question,OptionA,OptionB,OptionC,OptionD,Answer
+1,Which keyword is used to define a function in Python?,func,def,function,lambda,B
+2,What is the output of print(type([1,2,3]))?,<class 'tuple'>,<class 'list'>,<class 'set'>,<class 'dict'>,B
+3,Which method is used to add element in a list?,add(),append(),insert(),push(),B
+4,Which method is used to remove last element of a list?,delete(),remove(),pop(),discard(),C
+5,Which method is used to find index of a value?,position(),index(),find(),locate(),B
+6,What is the output of len([1,2,[3,4]])?,2,3,4,5,B
+7,Which data type does set() create?,list,tuple,set,dict,C
+8,What will be the output of print(3 in [1,2,3])?,True,False,Error,None,A
+9,Which of these is not allowed in Python lists?,mixed data types,nested lists,negative index,2D arrays,D
+10,Which function is used to get keys of dictionary?,dict.keys(),keys(),getkeys(),items(),A
+11,Which function is used to get values of dictionary?,dict.values(),values(),getvalues(),items(),A
+12,What is the output of print(len({"a":1,"b":2}))?,1,2,3,Error,B
+13,Which method is used to update dictionary?,update(),replace(),append(),insert(),A
+14,Which method is used to remove element from dictionary?,delete(),remove(),pop(),discard(),C
+15,Which keyword is used for loop in dictionary?,iterate,for,loop,each,B
+16,Which function returns ASCII value of character?,ord(),ascii(),chr(),code(),A
+17,Which function returns character from ASCII value?,ord(),chr(),ascii(),char(),B
+18,Which function converts string to list?,split(),list(),array(),tolist(),B
+19,What will be output of print("Python".lower())?,PYTHON,python,Python,Error,B
+20,What will be output of print("python".capitalize())?,python,Python,PYTHON,Error,B
+21,Which method joins list of strings?,join(),concat(),merge(),combine(),A
+22,Which method splits a string?,break(),split(),divide(),cut(),B
+23,Which function finds max of list?,max(),maximum(),bigger(),large(),A
+24,Which function finds min of list?,min(),minimum(),small(),low(),A
+25,Which of the following is mutable?,tuple,set,string,int,B
+26,Which of the following is immutable?,list,dict,set,tuple,D
+27,Which function checks memory location?,id(),loc(),mem(),addr(),A
+28,Which operator is used for identity check?,==,is,===,equals,B
+29,Which operator is used for membership test?,contains,in,==,exist,B
+30,What is output of print("a" * 3)?,aaa,a3,Error,3a,A
+31,Which keyword is used for creating function without body?,continue,pass,skip,empty,B
+32,Which loop executes at least once?,for,while,do-while,None,C
+33,Which statement is used for exception handling?,try-except,catch,throw,error,A
+34,Which keyword is used to raise exception?,throw,error,raise,except,C
+35,Which keyword is used to handle cleanup code?,finally,end,last,close,A
+36,Which function returns sorted list?,order(),sort(),sorted(),arrange(),C
+37,Which method sorts list in place?,sort(),sorted(),order(),arrange(),A
+38,Which of these creates a tuple?,[],{},(),None,C
+39,Which function is used to check type of variable?,typeof(),type(),instance(),is,B
+40,Which function is used to check subclass relation?,issubclass(),isinstance(),issuper(),checksub(),A

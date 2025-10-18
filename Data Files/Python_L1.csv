@@ -1,0 +1,52 @@
+S.No,Question,OptionA,OptionB,OptionC,OptionD,Answer
+1,What is the correct way to print in Python?,echo "Hello",System.out.println("Hello"),print("Hello"),printf("Hello"),C
+2,Which file extension is used for Python files?,.java,.py,.c,.txt,B
+3,Which keyword is used to define a function in Python?,func,def,function,lambda,B
+4,Which symbol is used for comments in Python?,"//","/*","#","--",C
+5,Which function gives the length of a string?,size(),count(),len(),length(),C
+6,What is the correct way to declare a variable?,int x=5,x=5,var x=5,declare x=5,B
+7,Which of these is a valid identifier in Python?,2var,hello_world,@name,var-1,B
+8,Which function converts string to integer?,toInt(),str(),int(),float(),C
+9,Which data type is immutable?,list,set,dict,tuple,D
+10,Which operator is used for exponentiation?,^,**,%,//,B
+11,Which of these is used for floor division?,/,//,%,**,B
+12,What is the output of print(10%3)?,1,2,3,0,A
+13,Which keyword is used to exit loop?,exit,stop,break,end,C
+14,Which keyword is used to skip current iteration?,skip,continue,pass,next,B
+15,What will be output of print(type("Hello"))?,<class 'int'>,<class 'str'>,<class 'list'>,<class 'tuple'>,B
+16,Which function is used to read input from user?,scan(),get(),input(),read(),C
+17,Which function converts integer to string?,int(),str(),toString(),chr(),B
+18,Which data type is used for True/False values?,int,bool,string,binary,B
+19,What is the output of print(2==3)?,True,False,Error,0,B
+20,Which operator is used for logical AND?,AND,&&,and,||,C
+21,Which keyword is used to create a loop?,loop,for,iterate,repeat,B
+22,What is the output of print("5"+"5")?,10,55,5+5,Error,B
+23,What is the index of first element in a list?,0,1,-1,Depends,A
+24,Which function is used to get minimum value?,low(),small(),min(),minimum(),C
+25,Which function is used to get maximum value?,high(),max(),maximum(),top(),B
+26,What is the correct syntax for if statement?,if x>0 {},if(x>0):,if x>0:,if(x>0),C
+27,Which keyword defines else condition?,otherwise,else,default,elif,B
+28,Which keyword is used for else-if condition?,elseif,else if,elif,ifelse,C
+29,Which of these is a loop structure?,if-else,for,def,return,B
+30,Which of these is not a keyword?,if,while,hello,break,C
+31,Which function returns absolute value?,abs(),fabs(),mod(),absolute(),A
+32,Which of these is not a data type?,int,str,real,list,C
+33,Which function rounds a number?,round(),floor(),ceil(),trunc(),A
+34,Which module is used for math operations?,random,os,math,string,C
+35,Which function generates random numbers?,random(),randint(),shuffle(),choice(),B
+36,Which function returns power of a number?,pow(),power(),exp(),**(),A
+37,What is the output of print(2*3+4)?,14,10,12,18,B
+38,Which function finds square root?,sqrt(),square(),pow(),root(),A
+39,Which operator is used for string concatenation?,+,*,&,%,A
+40,Which function checks type of variable?,check(),typeof(),type(),instance(),C
+41,Which function returns list of characters from string?,chars(),split(),list(),array(),C
+42,Which function removes whitespace from string?,trim(),strip(),remove(),clean(),B
+43,Which function converts string to lowercase?,lowercase(),lower(),down(),small(),B
+44,Which function converts string to uppercase?,upcase(),uppercase(),upper(),capital(),C
+45,What is the default return value of function if nothing is returned?,0,None,Empty,False,B
+46,Which function returns remainder?,%,mod(),remainder(),divide(),A
+47,Which symbol is used for assignment?,=,==,===,:=,A
+48,Which function finds maximum of multiple numbers?,max(),maximum(),high(),bigger(),A
+49,What is the output of print(len("Python"))?,6,5,7,Error,A
+50,Which operator is used for equality check?,=,==,!=,is,B
+

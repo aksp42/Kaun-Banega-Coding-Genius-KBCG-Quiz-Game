@@ -1,0 +1,16 @@
+S.No,Question,OptionA,OptionB,OptionC,OptionD,Answer
+1,What is the difference between overloading and overriding?,Overloading is same method different parameters,Overriding is child redefining parent method,Both A and B,None,D,Both A and B
+2,Which keyword is used to prevent method overriding?,final,static,abstract,private,A
+3,Which keyword is used to create an immutable class?,final,abstract,static,private,A
+4,What is the output of hashCode() method?,Unique integer value,Memory address,String representation,Object reference,A
+5,Which interface is used for thread creation?,Runnable,Thread,Callable,Both A and C,D,Both A and C
+6,Which method is used to start a thread?,run(),start(),init(),execute(),B
+7,Which exception is checked exception?,IOException,NullPointerException,ArithmeticException,ArrayIndexOutOfBoundsException,A
+8,Which keyword is used to handle exceptions?,try,catch,finally,All of the above,D,All of the above
+9,Which method is used to pause a thread?,sleep(),wait(),pause(),stop(),A
+10,Which concept allows multiple classes to have same method name with different parameters?,Overloading,Overriding,Polymorphism,Encapsulation,A
+11,Which concept allows a child class to redefine a parent method?,Overloading,Overriding,Inheritance,Abstraction,B
+12,Which method is used to compare objects?,equals(),compareTo(),Both A and B,None,D
+13,Which keyword is used to call parent class constructor?,super,this,parent,base,A
+14,Which exception occurs when trying to access null reference?,NullPointerException,IndexOutOfBoundsException,ArithmeticException,ClassCastException,A
+15,Which keyword is used to define abstract methods?,abstract,final,static,private,A
